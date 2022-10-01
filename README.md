@@ -1,4 +1,5 @@
-![Header](./header.jpg)
+[![Header](./header.jpg)](https://www.linkedin.com/in/elcombes/)
+
 
 Hola, soy Emmanuel Combes! 👋
 
@@ -16,7 +17,7 @@ en cuanto a diseño utilizo Photoshop | Illustrator | Vegas (Edición de videos)
 
 Puedes ver a continuación mi último proyecto grupal desarrollado para el bootcamp de Soy Henry junto a mis compañeros de carrera:
 
-![ViveArgentina](./landing-va.png)
+[![ViveArgentina](./landing-va.png)](https://experienceviveargentina.vercel.app/)
 
 E-commerce realizado en el marco de la finalización de SOY HENRY BOOTCAMP, de manera colaborativa por un equipo de siete integrantes, con reuniones diarias y realizando sprints semanales a un product owner. El mismo dispone de la posibilidad de presentar un catálogo de productos, con opción de filtrado por categorías y ordenamiento tanto alfabéticamente como por precio. También cuenta con una barra de búsqueda, login de usuarios, envíos de emails, carrito de compras, checkout de la orden y pago con Mercadopago. Por último cuenta con un dashboard de administrador para carga y edición de productos, banneo de usuarios y reinicio de passwords.
 
