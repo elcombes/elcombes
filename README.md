@@ -22,11 +22,13 @@ E-commerce realizado en el marco de la finalización de SOY HENRY BOOTCAMP, de m
 
 Mis tareas estuvieron principalmente puestas en el armado de la estructura inicial con React Create App y el diseño de los componentes necesarios para cada sección. Colaborando con el CSS y la implementación de Bootstrap como base para el front.
 
-[Ver web del proyecto](https://experienceviveargentina.vercel.app/)
-[GitHub Front](https://github.com/ViveargentinaGIT/ViveargentinaApp)
-[GitHub Back](https://github.com/ViveargentinaGIT/ViveargentinaBack)
+- [Ver web del proyecto](https://experienceviveargentina.vercel.app/)
+- [GitHub Front](https://github.com/ViveargentinaGIT/ViveargentinaApp)
+- [GitHub Back](https://github.com/ViveargentinaGIT/ViveargentinaBack)
 
 
-Te invito a charlar un poco más sobre algún punto en especial y descubrir mucho más sobre mí.
+Te invito a conversar un poco más sobre algún punto en especial y descubrir mucho más sobre mí.
+
+- [Ver más trabajos](https://www.behance.net/elcombes)
 
 ¡Gracias por llegar hasta aquí!
