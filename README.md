@@ -20,7 +20,7 @@ Puedes ver a continuación mi último proyecto grupal desarrollado para el bootc
 
 E-commerce realizado en el marco de la finalización de SOY HENRY BOOTCAMP, de manera colaborativa por un equipo de siete integrantes, con reuniones diarias y realizando sprints semanales a un product owner. El mismo dispone de la posibilidad de presentar un catálogo de productos, con opción de filtrado por categorías y ordenamiento tanto alfabéticamente como por precio. También cuenta con una barra de búsqueda, login de usuarios, envíos de emails, carrito de compras, checkout de la orden y pago con Mercadopago. Por último cuenta con un dashboard de administrador para carga y edición de productos, banneo de usuarios y reinicio de passwords.
 
-Mis tareas estuvieron principalmente puestas en el armado de la estructura inicial con React Create App y el diseño de los componentes necesarios para cada sección. Colaborando con el CSS y la implementación de Bootstrap como base para el front.
+# Mis tareas estuvieron principalmente puestas en el armado de la estructura inicial con React Create App y el diseño de los componentes necesarios para cada sección. Colaborando con el CSS y la implementación de Bootstrap como base para el front.
 
 - [Ver web del proyecto](https://experienceviveargentina.vercel.app/)
 - [GitHub Front](https://github.com/ViveargentinaGIT/ViveargentinaApp)
@@ -31,4 +31,8 @@ Te invito a conversar un poco más sobre algún punto en especial y descubrir mu
 
 - [Ver más trabajos](https://www.behance.net/elcombes)
 
-¡Gracias por llegar hasta aquí!
+## ¡Gracias por llegar hasta aquí!
+
+Si lo deseas puedes enviarme un Whatsapp o contactarme por LinkedIn
+- [WhatsApp](https://api.whatsapp.com/send?phone=+5492615059052&text=Deja%20tu%20mensaje%20a%20continuaci%C3%B3n%3A)
+- [LinkedIn /elcombes](https://www.linkedin.com/in/elcombes/)
