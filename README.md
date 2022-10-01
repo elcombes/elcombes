@@ -12,9 +12,9 @@ Las herramientas con las que trabajo son HTML | CSS | Bootstrap | Javascript | R
 en cuanto a diseño utilizo Photoshop | Illustrator | Vegas (Edición de videos)
 
 
-Puedes ver a continuación mi último proyecto grupal desarrollado para el bootcamp de Soy Henry junto a mis compañeros de carrera:
-
 ## Proyecto Vive Argentina
+
+Puedes ver a continuación mi último proyecto grupal desarrollado para el bootcamp de Soy Henry junto a mis compañeros de carrera:
 
 ![ViveArgentina](./landing-va.png)
 
